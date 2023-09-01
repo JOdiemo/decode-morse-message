@@ -158,6 +158,10 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- **Interface to turn sentence into morse code**
+- **Interface to turn morse code into sentence**
+- **Keep track of user's activity**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
