@@ -70,9 +70,7 @@ For more information on the importance of a professional README for your reposit
 
 <details>
   <summary>Client</summary>
- <details>
-  <summary>Server</summary>
-  <ul>
+   <ul>
     <li>Ruby</li>
   </ul>
 </details>
