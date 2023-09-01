@@ -37,5 +37,13 @@ def decode_word(word)
   morse_word
 end
 
+def decode_sentence(word)
+  morse_sentence = ' '
+  word.split(" ").each do |item|
+    morse_sentence = "#{morse_sentence}#{decode_char(item)}"
+  end
+  morse_sentence
+end
+
 puts decode_char('.-')
 puts decode_word("-- -.--")
