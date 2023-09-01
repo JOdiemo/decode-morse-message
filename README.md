@@ -76,9 +76,9 @@ For more information on the importance of a professional README for your reposit
 </details>
 ### Key Features <a name="key-features"></a>
 
-- **[Decode single character]**
-- **[Decode single word]**
-- **[Decode whole sentence]**
+- **Decode single character**
+- **Decode single word**
+- **Decode whole sentence**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
